@@ -1,2 +1,3 @@
-Python-scripting-for-CAE-modeling
+Python-AbaqusScripting-for-CAE-modeling
 =================================
+Modeling with Abaqus Python scripting!
